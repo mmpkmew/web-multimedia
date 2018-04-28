@@ -123,9 +123,9 @@ nav ul{
     list-style: none;
     float: left;
     text-decoration: none;
-    left: 700px;
     top: 50px;
     position: absolute;
+    left: 190px;
 }
 nav ul li{
     float: left;
